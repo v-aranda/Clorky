@@ -1,0 +1,6 @@
+# Membros da Equipe
+
+- DAVID FREIRE DE LIRA(função): 
+- EMERSON GOMES VANDERLEI DA SILVA(função);
+- LUCCAS AUGUSTO DA CUNHA SILVA(função);
+- VINICIUS ARANDA LIMA DA SILVA(função);
