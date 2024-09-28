@@ -1,5 +1,5 @@
 # Tecnologias utilizadas
-## Frontend: TypeScript
+## Frontend: javascript
 ## Backend: NodeJs
 ## Banco de Dados: Mongo DB
 ## Serviços de Nuvem: Vercel
@@ -12,6 +12,6 @@
 
 ## Testes:
 - Thunder Client(Requisições)
-- ?Alguma lib de testes unitários?
+- Jest.js
 
 ### Comunicação: Whatsapp e Google Meet

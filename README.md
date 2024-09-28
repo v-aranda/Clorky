@@ -12,3 +12,6 @@ Equipe de Desenvolvimento:
 - EMERSON GOMES VANDERLEI DA SILVA;
 - LUCCAS AUGUSTO DA CUNHA SILVA;
 - VINICIUS ARANDA LIMA DA SILVA;
+
+Prazo de entrega:
+- ???
